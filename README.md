@@ -53,7 +53,6 @@ To operate the chatbot, you must first install these dependencies for the chatbo
     
 Then, download this repository, and run the "main.py" file to start interacting with the chatbot!
 
-Please note that the program is currently in a beta stage, and that there may be issues with the program. Please feel free to send us feedback on our program.
 
 Thank you for using Python Chatbot! We hope you enjoy using it!
 

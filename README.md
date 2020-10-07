@@ -7,7 +7,7 @@ Hello, and welcome to Python Chatbot! This program was created by Kapilesh Penni
 
 *Please note that if you are going to use the automatic IP address function, you must run it on a local machine for accurate results. This is because the program needs your IP address to accurately find your location, and then it uses your location to retrieve the weather. Also, please disable your VPN or Internet Proxy for accurate results.
 
-Also, please note that you will need to have Python 3.7 or newer with pip to run this program.
+Also, please note that you will need to have Python 3.7 or newer to run this program. You can install Python for your operating system here: https://www.python.org/
 
 To operate the chatbot, you must first install these dependencies for the chatbot to be functional:
 

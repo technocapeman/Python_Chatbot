@@ -1,7 +1,6 @@
 # Python Chatbot
-Hello, and welcome to Python Chatbot! This program was made by Kapilesh Pennichetty and Sanjay Balasubramanian. Through user interaction, it can do the following:
+Hello, and welcome to Python Chatbot! This program was created by Kapilesh Pennichetty and Sanjay Balasubramanian. Through user interaction, it can do the following:
 
-- Store and return the user's name using global variable "name".
 - Retrieve the weather of a location automatically using an IP address or manually with a user input*
 - Retrieve the introduction to a Wikipedia article
 - Play an interactive story, where you decide how the character reacts to different scenarios

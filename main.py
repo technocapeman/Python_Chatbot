@@ -9,8 +9,6 @@ Python Chatbot is a program that takes user input and performs the desired actio
 
 *Please run this program on a local machine for full functionality of this feature. If you run it on a cloud-based interpreter, it will not retrieve the proper IP address and it will not return the weather for the correct city. Also, be sure to turn off your VPN if you have one on for accurate results.
 
-Please note that the program is currently in a beta stage, so it might have bugs.
-
 By: Kapilesh Pennichetty and Sanjay Balasubramanian
 
 Special thanks to Mr. Bailey Hulsey for his contributions and for sharing his knowledge of computer science to noobs like us!

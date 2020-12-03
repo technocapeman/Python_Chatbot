@@ -16,12 +16,12 @@ To operate the chatbot, you must first install these dependencies for the chatbo
   - For Windows users:
     - Open the command prompt and type:
     ```shell
-    pip3 install wikipedia-api
+    pip install wikipedia-api
     ```
   - For POSIX (including macOS and Linux) users:
     - Open the terminal and type:
     ```shell
-    $ python -m pip install wikipedia-api
+    $ python3 -m pip install wikipedia-api
     ```
   
 - PyOWM
@@ -34,7 +34,7 @@ To operate the chatbot, you must first install these dependencies for the chatbo
   - For POSIX (including macOS and Linux) users:
     - Open the terminal and type:
     ```shell
-    $ python -m pip install pyowm
+    $ python3 -m pip install pyowm
     ```
   
 - IPStack for Python (Geo Location Library)
@@ -47,7 +47,7 @@ To operate the chatbot, you must first install these dependencies for the chatbo
   - For POSIX (including macOS and Linux) users:
     - Open the terminal and type:
     ```shell
-    $ python -m pip install pyowm
+    $ python3 -m pip install ipstack
     ```
     
 Then, download this repository, and run the "main.py" file to start interacting with the chatbot!

@@ -41,12 +41,12 @@ wiki_wiki = wikipediaapi.Wikipedia('en')
 
 # ----- OpenWeatherMap API Initialization (Kapilesh Pennichetty) -----
 from pyowm import OWM
-owm = OWM('API_KEY')
+owm = OWM('YOUR_OWM_API_KEY')
 
 # ----- ipstack Geolocation API Initialization (Kapilesh Pennichetty) -----
 import urllib.request
 from ipstack import GeoLookup
-geo_lookup = GeoLookup("API_KEY")
+geo_lookup = GeoLookup("YOUR_IPSTACK_API_KEY")
 
 # ----- Regular Modules -----
 import sys

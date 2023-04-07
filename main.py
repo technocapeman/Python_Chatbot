@@ -871,4 +871,4 @@ time.sleep(1)
 returnname()
 instructions()
 print("Now, let's get started!")
-mainmenu()
+mainmenu
